@@ -39,7 +39,7 @@ function Login() {
                         <Form.Control 
                             required={true}
                             value={'                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             +63'+state.phone_number}
-                            onChange={handlePhoneFieldChange}
+                            onChange={handleEmailFieldChange}
                             type="text" 
                             id="emailAddress" 
                             name="email_address"
